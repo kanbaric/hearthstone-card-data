@@ -8,4 +8,4 @@ A usable and accurate hearthstone data source.
 
 =====================
 
-This is currently a work in progress, with many omissions in `cards.json` such as Minion type (Beast/Demon/etc), Flavor text, and Mechanic tags.
+This is a work in progress.  `cards.json` Should currently be useable, but I intend to add more metadata to the list such as Mechanic tags (Card Draw, Summon, etc), and maybe Flavor Text, Artist, etc.
