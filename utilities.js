@@ -46,6 +46,7 @@
                         cost: cardArray[i].cost,
                         attack: cardArray[i].attack,
                         health: cardArray[i].health,
+                        race: cardArray[i].race ? cardArray[i].race : null,
                         classs: cardArray[i].classs ? cardArray[i].classs : 0,
                         collectible: cardArray[i].collectible,
                         elite: cardArray[i].elite,
