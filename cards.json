@@ -1,5 +1,5 @@
 {
-    "_comment": "//Retrieved Fri Dec 27 2013 21:10:14 GMT-0800 (PST)",
+    "_comment": "//Retrieved on Sat Dec 28 2013 16:31:04 GMT-0800 (PST)",
     "cards": [
         {
             "name": "Al'Akir the Windlord",
@@ -17,7 +17,7 @@
             "set": 3,
             "type": 4,
             "zamid": 32,
-            "zampopularity": 136
+            "zampopularity": 137
         },
         {
             "name": "Alexstrasza",
@@ -35,7 +35,7 @@
             "set": 3,
             "type": 4,
             "zamid": 581,
-            "zampopularity": 337
+            "zampopularity": 338
         },
         {
             "name": "Archmage Antonidas",
@@ -53,7 +53,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1080,
-            "zampopularity": 402
+            "zampopularity": 403
         },
         {
             "name": "Baron Geddon",
@@ -71,7 +71,7 @@
             "set": 3,
             "type": 4,
             "zamid": 336,
-            "zampopularity": 121
+            "zampopularity": 122
         },
         {
             "name": "Bloodmage Thalnos",
@@ -89,7 +89,7 @@
             "set": 3,
             "type": 4,
             "zamid": 749,
-            "zampopularity": 1100
+            "zampopularity": 1117
         },
         {
             "name": "Cairne Bloodhoof",
@@ -107,7 +107,7 @@
             "set": 3,
             "type": 4,
             "zamid": 420,
-            "zampopularity": 326
+            "zampopularity": 330
         },
         {
             "name": "Captain Greenskin",
@@ -143,7 +143,7 @@
             "set": 3,
             "type": 4,
             "zamid": 36,
-            "zampopularity": 220
+            "zampopularity": 222
         },
         {
             "name": "Deathwing",
@@ -161,7 +161,7 @@
             "set": 3,
             "type": 4,
             "zamid": 834,
-            "zampopularity": 192
+            "zampopularity": 193
         },
         {
             "name": "Edwin VanCleef",
@@ -179,7 +179,7 @@
             "set": 3,
             "type": 4,
             "zamid": 306,
-            "zampopularity": 315
+            "zampopularity": 316
         },
         {
             "name": "Elite Tauren Chieftain",
@@ -215,7 +215,7 @@
             "set": 11,
             "type": 4,
             "zamid": 858,
-            "zampopularity": 171
+            "zampopularity": 172
         },
         {
             "name": "Grommash Hellscream",
@@ -233,7 +233,7 @@
             "set": 3,
             "type": 4,
             "zamid": 338,
-            "zampopularity": 389
+            "zampopularity": 391
         },
         {
             "name": "Gruul",
@@ -269,7 +269,7 @@
             "set": 3,
             "type": 4,
             "zamid": 912,
-            "zampopularity": 137
+            "zampopularity": 135
         },
         {
             "name": "Hogger",
@@ -287,7 +287,7 @@
             "set": 3,
             "type": 4,
             "zamid": 640,
-            "zampopularity": 517
+            "zampopularity": 522
         },
         {
             "name": "Illidan Stormrage",
@@ -305,7 +305,7 @@
             "set": 3,
             "type": 4,
             "zamid": 556,
-            "zampopularity": 324
+            "zampopularity": 325
         },
         {
             "name": "King Krush",
@@ -323,7 +323,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1144,
-            "zampopularity": 270
+            "zampopularity": 273
         },
         {
             "name": "King Mukla",
@@ -341,7 +341,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1693,
-            "zampopularity": 191
+            "zampopularity": 192
         },
         {
             "name": "Leeroy Jenkins",
@@ -359,7 +359,7 @@
             "set": 3,
             "type": 4,
             "zamid": 559,
-            "zampopularity": 465
+            "zampopularity": 467
         },
         {
             "name": "Lord Jaraxxus",
@@ -413,7 +413,7 @@
             "set": 3,
             "type": 4,
             "zamid": 436,
-            "zampopularity": 373
+            "zampopularity": 376
         },
         {
             "name": "Millhouse Manastorm",
@@ -449,7 +449,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1147,
-            "zampopularity": 286
+            "zampopularity": 288
         },
         {
             "name": "Nozdormu",
@@ -485,7 +485,7 @@
             "set": 4,
             "type": 4,
             "zamid": 736,
-            "zampopularity": 404
+            "zampopularity": 410
         },
         {
             "name": "Onyxia",
@@ -503,7 +503,7 @@
             "set": 3,
             "type": 4,
             "zamid": 363,
-            "zampopularity": 203
+            "zampopularity": 204
         },
         {
             "name": "Prophet Velen",
@@ -521,7 +521,7 @@
             "set": 3,
             "type": 4,
             "zamid": 9,
-            "zampopularity": 322
+            "zampopularity": 324
         },
         {
             "name": "Ragnaros the Firelord",
@@ -539,7 +539,7 @@
             "set": 3,
             "type": 4,
             "zamid": 374,
-            "zampopularity": 1094
+            "zampopularity": 1106
         },
         {
             "name": "Sylvanas Windrunner",
@@ -557,7 +557,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1721,
-            "zampopularity": 942
+            "zampopularity": 957
         },
         {
             "name": "The Beast",
@@ -593,7 +593,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1656,
-            "zampopularity": 365
+            "zampopularity": 373
         },
         {
             "name": "Tinkmaster Overspark",
@@ -611,7 +611,7 @@
             "set": 3,
             "type": 4,
             "zamid": 570,
-            "zampopularity": 245
+            "zampopularity": 249
         },
         {
             "name": "Tirion Fordring",
@@ -629,7 +629,7 @@
             "set": 3,
             "type": 4,
             "zamid": 890,
-            "zampopularity": 580
+            "zampopularity": 585
         },
         {
             "name": "Ysera",
@@ -647,7 +647,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1186,
-            "zampopularity": 650
+            "zampopularity": 652
         },
         {
             "name": "Ancient of Lore",
@@ -664,7 +664,7 @@
             "set": 3,
             "type": 4,
             "zamid": 920,
-            "zampopularity": 313
+            "zampopularity": 317
         },
         {
             "name": "Ancient of War",
@@ -681,7 +681,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1035,
-            "zampopularity": 318
+            "zampopularity": 323
         },
         {
             "name": "Avenging Wrath",
@@ -696,7 +696,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1174,
-            "zampopularity": 442
+            "zampopularity": 447
         },
         {
             "name": "Bane of Doom",
@@ -711,7 +711,7 @@
             "set": 3,
             "type": 5,
             "zamid": 23,
-            "zampopularity": 155
+            "zampopularity": 157
         },
         {
             "name": "Bestial Wrath",
@@ -726,7 +726,7 @@
             "set": 3,
             "type": 5,
             "zamid": 903,
-            "zampopularity": 148
+            "zampopularity": 150
         },
         {
             "name": "Big Game Hunter",
@@ -743,7 +743,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1657,
-            "zampopularity": 591
+            "zampopularity": 593
         },
         {
             "name": "Blood Knight",
@@ -760,7 +760,7 @@
             "set": 3,
             "type": 4,
             "zamid": 755,
-            "zampopularity": 348
+            "zampopularity": 349
         },
         {
             "name": "Brawl",
@@ -775,7 +775,7 @@
             "set": 3,
             "type": 5,
             "zamid": 75,
-            "zampopularity": 199
+            "zampopularity": 200
         },
         {
             "name": "Cabal Shadow Priest",
@@ -792,7 +792,7 @@
             "set": 3,
             "type": 4,
             "zamid": 272,
-            "zampopularity": 156
+            "zampopularity": 158
         },
         {
             "name": "Captain's Parrot",
@@ -825,7 +825,7 @@
             "set": 3,
             "type": 7,
             "zamid": 352,
-            "zampopularity": 250
+            "zampopularity": 255
         },
         {
             "name": "Doomsayer",
@@ -842,7 +842,7 @@
             "set": 3,
             "type": 4,
             "zamid": 138,
-            "zampopularity": 243
+            "zampopularity": 245
         },
         {
             "name": "Earth Elemental",
@@ -859,7 +859,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1141,
-            "zampopularity": 396
+            "zampopularity": 404
         },
         {
             "name": "Faceless Manipulator",
@@ -876,7 +876,7 @@
             "set": 3,
             "type": 4,
             "zamid": 531,
-            "zampopularity": 958
+            "zampopularity": 968
         },
         {
             "name": "Far Sight",
@@ -891,7 +891,7 @@
             "set": 3,
             "type": 5,
             "zamid": 818,
-            "zampopularity": 72
+            "zampopularity": 73
         },
         {
             "name": "Force of Nature",
@@ -906,7 +906,7 @@
             "set": 3,
             "type": 5,
             "zamid": 493,
-            "zampopularity": 161
+            "zampopularity": 160
         },
         {
             "name": "Gladiator's Longbow",
@@ -922,7 +922,7 @@
             "set": 3,
             "type": 7,
             "zamid": 311,
-            "zampopularity": 215
+            "zampopularity": 217
         },
         {
             "name": "Gorehowl",
@@ -938,7 +938,7 @@
             "set": 3,
             "type": 7,
             "zamid": 810,
-            "zampopularity": 424
+            "zampopularity": 429
         },
         {
             "name": "Hungry Crab",
@@ -955,7 +955,7 @@
             "set": 3,
             "type": 4,
             "zamid": 443,
-            "zampopularity": 142
+            "zampopularity": 144
         },
         {
             "name": "Ice Block",
@@ -970,7 +970,7 @@
             "set": 3,
             "type": 5,
             "zamid": 192,
-            "zampopularity": 341
+            "zampopularity": 346
         },
         {
             "name": "Kidnapper",
@@ -987,7 +987,7 @@
             "set": 3,
             "type": 4,
             "zamid": 287,
-            "zampopularity": 52
+            "zampopularity": 53
         },
         {
             "name": "Lay on Hands",
@@ -1002,7 +1002,7 @@
             "set": 3,
             "type": 5,
             "zamid": 594,
-            "zampopularity": 398
+            "zampopularity": 403
         },
         {
             "name": "Mindgames",
@@ -1034,7 +1034,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1372,
-            "zampopularity": 509
+            "zampopularity": 512
         },
         {
             "name": "Mountain Giant",
@@ -1051,7 +1051,7 @@
             "set": 3,
             "type": 4,
             "zamid": 993,
-            "zampopularity": 251
+            "zampopularity": 254
         },
         {
             "name": "Murloc Warleader",
@@ -1068,7 +1068,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1063,
-            "zampopularity": 435
+            "zampopularity": 441
         },
         {
             "name": "Patient Assassin",
@@ -1117,7 +1117,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1158,
-            "zampopularity": 241
+            "zampopularity": 240
         },
         {
             "name": "Pyroblast",
@@ -1132,7 +1132,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1087,
-            "zampopularity": 821
+            "zampopularity": 831
         },
         {
             "name": "Sea Giant",
@@ -1149,7 +1149,7 @@
             "set": 3,
             "type": 4,
             "zamid": 211,
-            "zampopularity": 279
+            "zampopularity": 280
         },
         {
             "name": "Shadowform",
@@ -1164,7 +1164,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1368,
-            "zampopularity": 187
+            "zampopularity": 189
         },
         {
             "name": "Shield Slam",
@@ -1179,7 +1179,7 @@
             "set": 3,
             "type": 5,
             "zamid": 546,
-            "zampopularity": 123
+            "zampopularity": 124
         },
         {
             "name": "Snake Trap",
@@ -1194,7 +1194,7 @@
             "set": 3,
             "type": 5,
             "zamid": 455,
-            "zampopularity": 310
+            "zampopularity": 312
         },
         {
             "name": "Southsea Captain",
@@ -1226,7 +1226,7 @@
             "set": 3,
             "type": 5,
             "zamid": 366,
-            "zampopularity": 194
+            "zampopularity": 195
         },
         {
             "name": "Sword of Justice",
@@ -1242,7 +1242,7 @@
             "set": 3,
             "type": 7,
             "zamid": 643,
-            "zampopularity": 576
+            "zampopularity": 579
         },
         {
             "name": "Twisting Nether",
@@ -1257,7 +1257,7 @@
             "set": 3,
             "type": 5,
             "zamid": 859,
-            "zampopularity": 156
+            "zampopularity": 157
         },
         {
             "name": "Ethereal Arcanist",
@@ -1292,7 +1292,7 @@
             "set": 3,
             "type": 4,
             "zamid": 440,
-            "zampopularity": 598
+            "zampopularity": 601
         },
         {
             "name": "Alarm-o-Bot",
@@ -1309,7 +1309,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1658,
-            "zampopularity": 186
+            "zampopularity": 185
         },
         {
             "name": "Aldor Peacekeeper",
@@ -1326,7 +1326,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1167,
-            "zampopularity": 737
+            "zampopularity": 740
         },
         {
             "name": "Ancestral Spirit",
@@ -1341,7 +1341,7 @@
             "set": 3,
             "type": 5,
             "zamid": 404,
-            "zampopularity": 225
+            "zampopularity": 229
         },
         {
             "name": "Ancient Mage",
@@ -1358,7 +1358,7 @@
             "set": 3,
             "type": 4,
             "zamid": 915,
-            "zampopularity": 281
+            "zampopularity": 280
         },
         {
             "name": "Ancient Watcher",
@@ -1375,7 +1375,7 @@
             "set": 3,
             "type": 4,
             "zamid": 605,
-            "zampopularity": 219
+            "zampopularity": 220
         },
         {
             "name": "Angry Chicken",
@@ -1392,7 +1392,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1688,
-            "zampopularity": 209
+            "zampopularity": 211
         },
         {
             "name": "Arcane Golem",
@@ -1409,7 +1409,7 @@
             "set": 3,
             "type": 4,
             "zamid": 466,
-            "zampopularity": 201
+            "zampopularity": 206
         },
         {
             "name": "Argent Commander",
@@ -1426,7 +1426,7 @@
             "set": 3,
             "type": 4,
             "zamid": 281,
-            "zampopularity": 2401
+            "zampopularity": 2423
         },
         {
             "name": "Armorsmith",
@@ -1443,7 +1443,7 @@
             "set": 3,
             "type": 4,
             "zamid": 596,
-            "zampopularity": 211
+            "zampopularity": 213
         },
         {
             "name": "Auchenai Soulpriest",
@@ -1460,7 +1460,7 @@
             "set": 3,
             "type": 4,
             "zamid": 237,
-            "zampopularity": 324
+            "zampopularity": 326
         },
         {
             "name": "Azure Drake",
@@ -1477,7 +1477,7 @@
             "set": 3,
             "type": 4,
             "zamid": 825,
-            "zampopularity": 1968
+            "zampopularity": 1982
         },
         {
             "name": "Bite",
@@ -1492,7 +1492,7 @@
             "set": 3,
             "type": 5,
             "zamid": 577,
-            "zampopularity": 218
+            "zampopularity": 219
         },
         {
             "name": "Blade Flurry",
@@ -1522,7 +1522,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1522,
-            "zampopularity": 232
+            "zampopularity": 233
         },
         {
             "name": "Blizzard",
@@ -1537,7 +1537,7 @@
             "set": 3,
             "type": 5,
             "zamid": 457,
-            "zampopularity": 986
+            "zampopularity": 988
         },
         {
             "name": "Bloodsail Corsair",
@@ -1554,7 +1554,7 @@
             "set": 3,
             "type": 4,
             "zamid": 997,
-            "zampopularity": 169
+            "zampopularity": 173
         },
         {
             "name": "Coldlight Oracle",
@@ -1571,7 +1571,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1016,
-            "zampopularity": 422
+            "zampopularity": 430
         },
         {
             "name": "Coldlight Seer",
@@ -1588,7 +1588,7 @@
             "set": 3,
             "type": 4,
             "zamid": 453,
-            "zampopularity": 424
+            "zampopularity": 428
         },
         {
             "name": "Commanding Shout",
@@ -1603,7 +1603,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1026,
-            "zampopularity": 316
+            "zampopularity": 320
         },
         {
             "name": "Counterspell",
@@ -1618,7 +1618,7 @@
             "set": 3,
             "type": 5,
             "zamid": 113,
-            "zampopularity": 357
+            "zampopularity": 359
         },
         {
             "name": "Crazed Alchemist",
@@ -1635,7 +1635,7 @@
             "set": 3,
             "type": 4,
             "zamid": 801,
-            "zampopularity": 246
+            "zampopularity": 247
         },
         {
             "name": "Defender of Argus",
@@ -1652,7 +1652,7 @@
             "set": 3,
             "type": 4,
             "zamid": 763,
-            "zampopularity": 2559
+            "zampopularity": 2590
         },
         {
             "name": "Demolisher",
@@ -1684,7 +1684,7 @@
             "set": 3,
             "type": 5,
             "zamid": 679,
-            "zampopularity": 367
+            "zampopularity": 369
         },
         {
             "name": "Doomguard",
@@ -1701,7 +1701,7 @@
             "set": 3,
             "type": 4,
             "zamid": 631,
-            "zampopularity": 189
+            "zampopularity": 191
         },
         {
             "name": "Eaglehorn Bow",
@@ -1717,7 +1717,7 @@
             "set": 3,
             "type": 7,
             "zamid": 1662,
-            "zampopularity": 364
+            "zampopularity": 367
         },
         {
             "name": "Emperor Cobra",
@@ -1734,7 +1734,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1098,
-            "zampopularity": 574
+            "zampopularity": 578
         },
         {
             "name": "Equality",
@@ -1749,7 +1749,7 @@
             "set": 3,
             "type": 5,
             "zamid": 756,
-            "zampopularity": 582
+            "zampopularity": 584
         },
         {
             "name": "Explosive Shot",
@@ -1764,7 +1764,7 @@
             "set": 3,
             "type": 5,
             "zamid": 394,
-            "zampopularity": 510
+            "zampopularity": 512
         },
         {
             "name": "Felguard",
@@ -1781,7 +1781,7 @@
             "set": 3,
             "type": 4,
             "zamid": 517,
-            "zampopularity": 138
+            "zampopularity": 139
         },
         {
             "name": "Feral Spirit",
@@ -1796,7 +1796,7 @@
             "set": 3,
             "type": 5,
             "zamid": 238,
-            "zampopularity": 683
+            "zampopularity": 691
         },
         {
             "name": "Flare",
@@ -1811,7 +1811,7 @@
             "set": 3,
             "type": 5,
             "zamid": 896,
-            "zampopularity": 207
+            "zampopularity": 208
         },
         {
             "name": "Frothing Berserker",
@@ -1828,7 +1828,7 @@
             "set": 3,
             "type": 4,
             "zamid": 654,
-            "zampopularity": 577
+            "zampopularity": 581
         },
         {
             "name": "Gadgetzan Auctioneer",
@@ -1845,7 +1845,7 @@
             "set": 3,
             "type": 4,
             "zamid": 932,
-            "zampopularity": 718
+            "zampopularity": 722
         },
         {
             "name": "Headcrack",
@@ -1860,7 +1860,7 @@
             "set": 3,
             "type": 5,
             "zamid": 708,
-            "zampopularity": 270
+            "zampopularity": 269
         },
         {
             "name": "Holy Fire",
@@ -1875,7 +1875,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1365,
-            "zampopularity": 470
+            "zampopularity": 471
         },
         {
             "name": "Holy Wrath",
@@ -1907,7 +1907,7 @@
             "set": 3,
             "type": 4,
             "zamid": 926,
-            "zampopularity": 633
+            "zampopularity": 636
         },
         {
             "name": "Injured Blademaster",
@@ -1924,7 +1924,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1109,
-            "zampopularity": 540
+            "zampopularity": 544
         },
         {
             "name": "Keeper of the Grove",
@@ -1941,7 +1941,7 @@
             "set": 3,
             "type": 4,
             "zamid": 601,
-            "zampopularity": 516
+            "zampopularity": 529
         },
         {
             "name": "Kirin Tor Mage",
@@ -1958,7 +1958,7 @@
             "set": 3,
             "type": 4,
             "zamid": 748,
-            "zampopularity": 283
+            "zampopularity": 285
         },
         {
             "name": "Knife Juggler",
@@ -1975,7 +1975,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1073,
-            "zampopularity": 1569
+            "zampopularity": 1580
         },
         {
             "name": "Lava Burst",
@@ -1990,7 +1990,7 @@
             "set": 3,
             "type": 5,
             "zamid": 864,
-            "zampopularity": 417
+            "zampopularity": 423
         },
         {
             "name": "Lightning Storm",
@@ -2005,7 +2005,7 @@
             "set": 3,
             "type": 5,
             "zamid": 629,
-            "zampopularity": 732
+            "zampopularity": 742
         },
         {
             "name": "Lightwarden",
@@ -2022,7 +2022,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1655,
-            "zampopularity": 320
+            "zampopularity": 323
         },
         {
             "name": "Lightwell",
@@ -2056,7 +2056,7 @@
             "set": 3,
             "type": 4,
             "zamid": 12,
-            "zampopularity": 279
+            "zampopularity": 280
         },
         {
             "name": "Mana Tide Totem",
@@ -2073,7 +2073,7 @@
             "set": 3,
             "type": 4,
             "zamid": 513,
-            "zampopularity": 421
+            "zampopularity": 426
         },
         {
             "name": "Mana Wraith",
@@ -2105,7 +2105,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1366,
-            "zampopularity": 238
+            "zampopularity": 236
         },
         {
             "name": "Master of Disguise",
@@ -2122,7 +2122,7 @@
             "set": 3,
             "type": 4,
             "zamid": 887,
-            "zampopularity": 126
+            "zampopularity": 129
         },
         {
             "name": "Master Swordsmith",
@@ -2139,7 +2139,7 @@
             "set": 3,
             "type": 4,
             "zamid": 351,
-            "zampopularity": 427
+            "zampopularity": 428
         },
         {
             "name": "Mind Control Tech",
@@ -2156,7 +2156,7 @@
             "set": 3,
             "type": 4,
             "zamid": 734,
-            "zampopularity": 274
+            "zampopularity": 275
         },
         {
             "name": "Misdirection",
@@ -2171,7 +2171,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1091,
-            "zampopularity": 187
+            "zampopularity": 189
         },
         {
             "name": "Mortal Strike",
@@ -2186,7 +2186,7 @@
             "set": 3,
             "type": 5,
             "zamid": 804,
-            "zampopularity": 170
+            "zampopularity": 172
         },
         {
             "name": "Murloc Tidecaller",
@@ -2203,7 +2203,7 @@
             "set": 3,
             "type": 4,
             "zamid": 475,
-            "zampopularity": 470
+            "zampopularity": 475
         },
         {
             "name": "Nourish",
@@ -2218,7 +2218,7 @@
             "set": 3,
             "type": 5,
             "zamid": 95,
-            "zampopularity": 379
+            "zampopularity": 384
         },
         {
             "name": "Perdition's Blade",
@@ -2234,7 +2234,7 @@
             "set": 3,
             "type": 7,
             "zamid": 391,
-            "zampopularity": 324
+            "zampopularity": 327
         },
         {
             "name": "Pint-Sized Summoner",
@@ -2251,7 +2251,7 @@
             "set": 3,
             "type": 4,
             "zamid": 37,
-            "zampopularity": 408
+            "zampopularity": 409
         },
         {
             "name": "Questing Adventurer",
@@ -2268,7 +2268,7 @@
             "set": 3,
             "type": 4,
             "zamid": 791,
-            "zampopularity": 728
+            "zampopularity": 734
         },
         {
             "name": "Ravenholdt Assassin",
@@ -2285,7 +2285,7 @@
             "set": 3,
             "type": 4,
             "zamid": 134,
-            "zampopularity": 344
+            "zampopularity": 346
         },
         {
             "name": "Savagery",
@@ -2317,7 +2317,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1261,
-            "zampopularity": 474
+            "zampopularity": 476
         },
         {
             "name": "Secretkeeper",
@@ -2334,7 +2334,7 @@
             "set": 3,
             "type": 4,
             "zamid": 158,
-            "zampopularity": 171
+            "zampopularity": 172
         },
         {
             "name": "Shadow Madness",
@@ -2349,7 +2349,7 @@
             "set": 3,
             "type": 5,
             "zamid": 220,
-            "zampopularity": 306
+            "zampopularity": 309
         },
         {
             "name": "Shadowflame",
@@ -2381,7 +2381,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1117,
-            "zampopularity": 517
+            "zampopularity": 521
         },
         {
             "name": "Siphon Soul",
@@ -2396,7 +2396,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1100,
-            "zampopularity": 397
+            "zampopularity": 400
         },
         {
             "name": "Stampeding Kodo",
@@ -2413,7 +2413,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1371,
-            "zampopularity": 467
+            "zampopularity": 468
         },
         {
             "name": "Starfall",
@@ -2428,7 +2428,7 @@
             "set": 3,
             "type": 5,
             "zamid": 86,
-            "zampopularity": 513
+            "zampopularity": 522
         },
         {
             "name": "Sunfury Protector",
@@ -2445,7 +2445,7 @@
             "set": 3,
             "type": 4,
             "zamid": 891,
-            "zampopularity": 700
+            "zampopularity": 704
         },
         {
             "name": "Sunwalker",
@@ -2462,7 +2462,7 @@
             "set": 3,
             "type": 4,
             "zamid": 759,
-            "zampopularity": 1102
+            "zampopularity": 1108
         },
         {
             "name": "Twilight Drake",
@@ -2479,7 +2479,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1037,
-            "zampopularity": 512
+            "zampopularity": 514
         },
         {
             "name": "Upgrade!",
@@ -2494,7 +2494,7 @@
             "set": 3,
             "type": 5,
             "zamid": 511,
-            "zampopularity": 318
+            "zampopularity": 319
         },
         {
             "name": "Vaporize",
@@ -2526,7 +2526,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1029,
-            "zampopularity": 370
+            "zampopularity": 374
         },
         {
             "name": "Void Terror",
@@ -2543,7 +2543,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1221,
-            "zampopularity": 274
+            "zampopularity": 273
         },
         {
             "name": "Wild Pyromancer",
@@ -2560,7 +2560,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1014,
-            "zampopularity": 426
+            "zampopularity": 428
         },
         {
             "name": "Young Priestess",
@@ -2577,7 +2577,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1634,
-            "zampopularity": 464
+            "zampopularity": 475
         },
         {
             "name": "Abusive Sergeant",
@@ -2594,7 +2594,7 @@
             "set": 3,
             "type": 4,
             "zamid": 242,
-            "zampopularity": 778
+            "zampopularity": 787
         },
         {
             "name": "Acidic Swamp Ooze",
@@ -2611,7 +2611,7 @@
             "set": 2,
             "type": 4,
             "zamid": 906,
-            "zampopularity": 2068
+            "zampopularity": 2088
         },
         {
             "name": "Acolyte of Pain",
@@ -2628,7 +2628,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1659,
-            "zampopularity": 1154
+            "zampopularity": 1163
         },
         {
             "name": "Amani Berserker",
@@ -2645,7 +2645,7 @@
             "set": 3,
             "type": 4,
             "zamid": 790,
-            "zampopularity": 1249
+            "zampopularity": 1261
         },
         {
             "name": "Ancient Brewmaster",
@@ -2662,7 +2662,7 @@
             "set": 3,
             "type": 4,
             "zamid": 186,
-            "zampopularity": 487
+            "zampopularity": 490
         },
         {
             "name": "Animal Companion",
@@ -2677,7 +2677,7 @@
             "set": 2,
             "type": 5,
             "zamid": 437,
-            "zampopularity": 749
+            "zampopularity": 754
         },
         {
             "name": "Arathi Weaponsmith",
@@ -2694,7 +2694,7 @@
             "set": 3,
             "type": 4,
             "zamid": 538,
-            "zampopularity": 585
+            "zampopularity": 591
         },
         {
             "name": "Arcanite Reaper",
@@ -2709,7 +2709,7 @@
             "set": 2,
             "type": 7,
             "zamid": 304,
-            "zampopularity": 726
+            "zampopularity": 731
         },
         {
             "name": "Archmage",
@@ -2743,7 +2743,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1022,
-            "zampopularity": 990
+            "zampopularity": 998
         },
         {
             "name": "Argent Squire",
@@ -2760,7 +2760,7 @@
             "set": 3,
             "type": 4,
             "zamid": 757,
-            "zampopularity": 1014
+            "zampopularity": 1035
         },
         {
             "name": "Assassin's Blade",
@@ -2775,7 +2775,7 @@
             "set": 2,
             "type": 7,
             "zamid": 421,
-            "zampopularity": 358
+            "zampopularity": 362
         },
         {
             "name": "Battle Rage",
@@ -2790,7 +2790,7 @@
             "set": 3,
             "type": 5,
             "zamid": 400,
-            "zampopularity": 425
+            "zampopularity": 428
         },
         {
             "name": "Betrayal",
@@ -2805,7 +2805,7 @@
             "set": 3,
             "type": 5,
             "zamid": 282,
-            "zampopularity": 223
+            "zampopularity": 224
         },
         {
             "name": "Blessing of Kings",
@@ -2820,7 +2820,7 @@
             "set": 2,
             "type": 5,
             "zamid": 943,
-            "zampopularity": 898
+            "zampopularity": 903
         },
         {
             "name": "Blessing of Wisdom",
@@ -2835,7 +2835,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1373,
-            "zampopularity": 328
+            "zampopularity": 327
         },
         {
             "name": "Blood Imp",
@@ -2852,7 +2852,7 @@
             "set": 3,
             "type": 4,
             "zamid": 469,
-            "zampopularity": 802
+            "zampopularity": 813
         },
         {
             "name": "Bloodlust",
@@ -2867,7 +2867,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1171,
-            "zampopularity": 643
+            "zampopularity": 652
         },
         {
             "name": "Bloodsail Raider",
@@ -2884,7 +2884,7 @@
             "set": 3,
             "type": 4,
             "zamid": 999,
-            "zampopularity": 781
+            "zampopularity": 786
         },
         {
             "name": "Bluegill Warrior",
@@ -2901,7 +2901,7 @@
             "set": 2,
             "type": 4,
             "zamid": 739,
-            "zampopularity": 695
+            "zampopularity": 705
         },
         {
             "name": "Booty Bay Bodyguard",
@@ -2918,7 +2918,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1140,
-            "zampopularity": 622
+            "zampopularity": 625
         },
         {
             "name": "Chillwind Yeti",
@@ -2934,7 +2934,7 @@
             "set": 2,
             "type": 4,
             "zamid": 90,
-            "zampopularity": 1253
+            "zampopularity": 1263
         },
         {
             "name": "Circle of Healing",
@@ -2949,7 +2949,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1362,
-            "zampopularity": 262
+            "zampopularity": 264
         },
         {
             "name": "Cleave",
@@ -2964,7 +2964,7 @@
             "set": 2,
             "type": 5,
             "zamid": 940,
-            "zampopularity": 437
+            "zampopularity": 442
         },
         {
             "name": "Cold Blood",
@@ -2979,7 +2979,7 @@
             "set": 3,
             "type": 5,
             "zamid": 268,
-            "zampopularity": 406
+            "zampopularity": 407
         },
         {
             "name": "Conceal",
@@ -2994,7 +2994,7 @@
             "set": 3,
             "type": 5,
             "zamid": 990,
-            "zampopularity": 183
+            "zampopularity": 185
         },
         {
             "name": "Cone of Cold",
@@ -3009,7 +3009,7 @@
             "set": 3,
             "type": 5,
             "zamid": 430,
-            "zampopularity": 890
+            "zampopularity": 893
         },
         {
             "name": "Consecration",
@@ -3024,7 +3024,7 @@
             "set": 2,
             "type": 5,
             "zamid": 476,
-            "zampopularity": 1178
+            "zampopularity": 1184
         },
         {
             "name": "Core Hound",
@@ -3040,7 +3040,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1687,
-            "zampopularity": 437
+            "zampopularity": 439
         },
         {
             "name": "Corruption",
@@ -3055,7 +3055,7 @@
             "set": 2,
             "type": 5,
             "zamid": 982,
-            "zampopularity": 228
+            "zampopularity": 231
         },
         {
             "name": "Cruel Taskmaster",
@@ -3072,7 +3072,7 @@
             "set": 3,
             "type": 4,
             "zamid": 285,
-            "zampopularity": 631
+            "zampopularity": 635
         },
         {
             "name": "Cult Master",
@@ -3089,7 +3089,7 @@
             "set": 3,
             "type": 4,
             "zamid": 811,
-            "zampopularity": 797
+            "zampopularity": 801
         },
         {
             "name": "Dalaran Mage",
@@ -3106,7 +3106,7 @@
             "set": 2,
             "type": 4,
             "zamid": 175,
-            "zampopularity": 554
+            "zampopularity": 557
         },
         {
             "name": "Dark Iron Dwarf",
@@ -3123,7 +3123,7 @@
             "set": 3,
             "type": 4,
             "zamid": 348,
-            "zampopularity": 1598
+            "zampopularity": 1613
         },
         {
             "name": "Darkscale Healer",
@@ -3140,7 +3140,7 @@
             "set": 2,
             "type": 4,
             "zamid": 582,
-            "zampopularity": 706
+            "zampopularity": 712
         },
         {
             "name": "Deadly Shot",
@@ -3155,7 +3155,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1093,
-            "zampopularity": 561
+            "zampopularity": 564
         },
         {
             "name": "Defias Ringleader",
@@ -3172,7 +3172,7 @@
             "set": 3,
             "type": 4,
             "zamid": 201,
-            "zampopularity": 598
+            "zampopularity": 601
         },
         {
             "name": "Demonfire",
@@ -3187,7 +3187,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1142,
-            "zampopularity": 612
+            "zampopularity": 616
         },
         {
             "name": "Dire Wolf Alpha",
@@ -3204,7 +3204,7 @@
             "set": 3,
             "type": 4,
             "zamid": 985,
-            "zampopularity": 1055
+            "zampopularity": 1056
         },
         {
             "name": "Divine Spirit",
@@ -3219,7 +3219,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1361,
-            "zampopularity": 583
+            "zampopularity": 585
         },
         {
             "name": "Dragonling Mechanic",
@@ -3236,7 +3236,7 @@
             "set": 2,
             "type": 4,
             "zamid": 523,
-            "zampopularity": 581
+            "zampopularity": 584
         },
         {
             "name": "Dread Corsair",
@@ -3253,7 +3253,7 @@
             "set": 3,
             "type": 4,
             "zamid": 878,
-            "zampopularity": 485
+            "zampopularity": 486
         },
         {
             "name": "Dread Infernal",
@@ -3270,7 +3270,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1019,
-            "zampopularity": 238
+            "zampopularity": 239
         },
         {
             "name": "Druid of the Claw",
@@ -3287,7 +3287,7 @@
             "set": 3,
             "type": 4,
             "zamid": 692,
-            "zampopularity": 597
+            "zampopularity": 608
         },
         {
             "name": "Dust Devil",
@@ -3304,7 +3304,7 @@
             "set": 3,
             "type": 4,
             "zamid": 618,
-            "zampopularity": 149
+            "zampopularity": 150
         },
         {
             "name": "Earth Shock",
@@ -3319,7 +3319,7 @@
             "set": 3,
             "type": 5,
             "zamid": 767,
-            "zampopularity": 519
+            "zampopularity": 525
         },
         {
             "name": "Earthen Ring Farseer",
@@ -3336,7 +3336,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1651,
-            "zampopularity": 676
+            "zampopularity": 680
         },
         {
             "name": "Elven Archer",
@@ -3353,7 +3353,7 @@
             "set": 2,
             "type": 4,
             "zamid": 389,
-            "zampopularity": 648
+            "zampopularity": 661
         },
         {
             "name": "Eviscerate",
@@ -3368,7 +3368,7 @@
             "set": 3,
             "type": 5,
             "zamid": 904,
-            "zampopularity": 707
+            "zampopularity": 712
         },
         {
             "name": "Explosive Trap",
@@ -3383,7 +3383,7 @@
             "set": 3,
             "type": 5,
             "zamid": 585,
-            "zampopularity": 608
+            "zampopularity": 610
         },
         {
             "name": "Eye for an Eye",
@@ -3415,7 +3415,7 @@
             "set": 3,
             "type": 4,
             "zamid": 609,
-            "zampopularity": 1512
+            "zampopularity": 1527
         },
         {
             "name": "Fan of Knives",
@@ -3430,7 +3430,7 @@
             "set": 2,
             "type": 5,
             "zamid": 667,
-            "zampopularity": 451
+            "zampopularity": 453
         },
         {
             "name": "Fen Creeper",
@@ -3447,7 +3447,7 @@
             "set": 3,
             "type": 4,
             "zamid": 602,
-            "zampopularity": 643
+            "zampopularity": 648
         },
         {
             "name": "Fire Elemental",
@@ -3464,7 +3464,7 @@
             "set": 2,
             "type": 4,
             "zamid": 189,
-            "zampopularity": 713
+            "zampopularity": 725
         },
         {
             "name": "Flame Imp",
@@ -3481,7 +3481,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1090,
-            "zampopularity": 640
+            "zampopularity": 649
         },
         {
             "name": "Flamestrike",
@@ -3496,7 +3496,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1004,
-            "zampopularity": 1055
+            "zampopularity": 1062
         },
         {
             "name": "Flametongue Totem",
@@ -3513,7 +3513,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1008,
-            "zampopularity": 763
+            "zampopularity": 772
         },
         {
             "name": "Flesheating Ghoul",
@@ -3530,7 +3530,7 @@
             "set": 3,
             "type": 4,
             "zamid": 397,
-            "zampopularity": 595
+            "zampopularity": 598
         },
         {
             "name": "Forked Lightning",
@@ -3545,7 +3545,7 @@
             "set": 3,
             "type": 5,
             "zamid": 299,
-            "zampopularity": 540
+            "zampopularity": 548
         },
         {
             "name": "Freezing Trap",
@@ -3560,7 +3560,7 @@
             "set": 3,
             "type": 5,
             "zamid": 519,
-            "zampopularity": 250
+            "zampopularity": 251
         },
         {
             "name": "Frost Elemental",
@@ -3577,7 +3577,7 @@
             "set": 3,
             "type": 4,
             "zamid": 512,
-            "zampopularity": 411
+            "zampopularity": 412
         },
         {
             "name": "Frost Nova",
@@ -3592,7 +3592,7 @@
             "set": 2,
             "type": 5,
             "zamid": 587,
-            "zampopularity": 585
+            "zampopularity": 587
         },
         {
             "name": "Frostbolt",
@@ -3607,7 +3607,7 @@
             "set": 2,
             "type": 5,
             "zamid": 662,
-            "zampopularity": 1255
+            "zampopularity": 1265
         },
         {
             "name": "Frostwolf Grunt",
@@ -3624,7 +3624,7 @@
             "set": 2,
             "type": 4,
             "zamid": 41,
-            "zampopularity": 478
+            "zampopularity": 476
         },
         {
             "name": "Frostwolf Warlord",
@@ -3641,7 +3641,7 @@
             "set": 2,
             "type": 4,
             "zamid": 496,
-            "zampopularity": 873
+            "zampopularity": 875
         },
         {
             "name": "Gnomish Inventor",
@@ -3658,7 +3658,7 @@
             "set": 2,
             "type": 4,
             "zamid": 308,
-            "zampopularity": 931
+            "zampopularity": 940
         },
         {
             "name": "Goldshire Footman",
@@ -3675,7 +3675,7 @@
             "set": 2,
             "type": 4,
             "zamid": 922,
-            "zampopularity": 567
+            "zampopularity": 569
         },
         {
             "name": "Grimscale Oracle",
@@ -3692,7 +3692,7 @@
             "set": 2,
             "type": 4,
             "zamid": 510,
-            "zampopularity": 497
+            "zampopularity": 505
         },
         {
             "name": "Guardian of Kings",
@@ -3709,7 +3709,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1068,
-            "zampopularity": 525
+            "zampopularity": 528
         },
         {
             "name": "Gurubashi Berserker",
@@ -3726,7 +3726,7 @@
             "set": 2,
             "type": 4,
             "zamid": 768,
-            "zampopularity": 1079
+            "zampopularity": 1078
         },
         {
             "name": "Harvest Golem",
@@ -3743,7 +3743,7 @@
             "set": 3,
             "type": 4,
             "zamid": 778,
-            "zampopularity": 1556
+            "zampopularity": 1577
         },
         {
             "name": "Holy Nova",
@@ -3758,7 +3758,7 @@
             "set": 2,
             "type": 5,
             "zamid": 841,
-            "zampopularity": 1124
+            "zampopularity": 1127
         },
         {
             "name": "Humility",
@@ -3773,7 +3773,7 @@
             "set": 2,
             "type": 5,
             "zamid": 854,
-            "zampopularity": 252
+            "zampopularity": 255
         },
         {
             "name": "Hunter's Mark",
@@ -3788,7 +3788,7 @@
             "set": 2,
             "type": 5,
             "zamid": 141,
-            "zampopularity": 419
+            "zampopularity": 418
         },
         {
             "name": "Ice Barrier",
@@ -3803,7 +3803,7 @@
             "set": 3,
             "type": 5,
             "zamid": 621,
-            "zampopularity": 440
+            "zampopularity": 441
         },
         {
             "name": "Ice Lance",
@@ -3818,7 +3818,7 @@
             "set": 3,
             "type": 5,
             "zamid": 172,
-            "zampopularity": 494
+            "zampopularity": 500
         },
         {
             "name": "Inner Fire",
@@ -3848,7 +3848,7 @@
             "set": 3,
             "type": 5,
             "zamid": 22,
-            "zampopularity": 556
+            "zampopularity": 560
         },
         {
             "name": "Ironbark Protector",
@@ -3865,7 +3865,7 @@
             "set": 2,
             "type": 4,
             "zamid": 205,
-            "zampopularity": 332
+            "zampopularity": 337
         },
         {
             "name": "Ironbeak Owl",
@@ -3882,7 +3882,7 @@
             "set": 3,
             "type": 4,
             "zamid": 290,
-            "zampopularity": 1701
+            "zampopularity": 1711
         },
         {
             "name": "Ironforge Rifleman",
@@ -3916,7 +3916,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1182,
-            "zampopularity": 1385
+            "zampopularity": 1392
         },
         {
             "name": "Jungle Panther",
@@ -3948,7 +3948,7 @@
             "set": 2,
             "type": 5,
             "zamid": 296,
-            "zampopularity": 687
+            "zampopularity": 691
         },
         {
             "name": "Kobold Geomancer",
@@ -3965,7 +3965,7 @@
             "set": 2,
             "type": 4,
             "zamid": 672,
-            "zampopularity": 930
+            "zampopularity": 934
         },
         {
             "name": "Kor'kron Elite",
@@ -3982,7 +3982,7 @@
             "set": 2,
             "type": 4,
             "zamid": 28,
-            "zampopularity": 524
+            "zampopularity": 529
         },
         {
             "name": "Leper Gnome",
@@ -3999,7 +3999,7 @@
             "set": 3,
             "type": 4,
             "zamid": 658,
-            "zampopularity": 1063
+            "zampopularity": 1080
         },
         {
             "name": "Lightning Bolt",
@@ -4014,7 +4014,7 @@
             "set": 3,
             "type": 5,
             "zamid": 505,
-            "zampopularity": 665
+            "zampopularity": 674
         },
         {
             "name": "Lightspawn",
@@ -4031,7 +4031,7 @@
             "set": 3,
             "type": 4,
             "zamid": 886,
-            "zampopularity": 563
+            "zampopularity": 565
         },
         {
             "name": "Loot Hoarder",
@@ -4048,7 +4048,7 @@
             "set": 3,
             "type": 4,
             "zamid": 251,
-            "zampopularity": 1318
+            "zampopularity": 1335
         },
         {
             "name": "Lord of the Arena",
@@ -4065,7 +4065,7 @@
             "set": 2,
             "type": 4,
             "zamid": 157,
-            "zampopularity": 876
+            "zampopularity": 878
         },
         {
             "name": "Mad Bomber",
@@ -4082,7 +4082,7 @@
             "set": 3,
             "type": 4,
             "zamid": 762,
-            "zampopularity": 502
+            "zampopularity": 507
         },
         {
             "name": "Mana Wyrm",
@@ -4099,7 +4099,7 @@
             "set": 3,
             "type": 4,
             "zamid": 405,
-            "zampopularity": 802
+            "zampopularity": 812
         },
         {
             "name": "Mark of Nature",
@@ -4114,7 +4114,7 @@
             "set": 3,
             "type": 5,
             "zamid": 151,
-            "zampopularity": 357
+            "zampopularity": 361
         },
         {
             "name": "Mind Control",
@@ -4129,7 +4129,7 @@
             "set": 2,
             "type": 5,
             "zamid": 8,
-            "zampopularity": 1040
+            "zampopularity": 1042
         },
         {
             "name": "Mind Vision",
@@ -4144,7 +4144,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1099,
-            "zampopularity": 305
+            "zampopularity": 306
         },
         {
             "name": "Mirror Entity",
@@ -4159,7 +4159,7 @@
             "set": 3,
             "type": 5,
             "zamid": 195,
-            "zampopularity": 428
+            "zampopularity": 429
         },
         {
             "name": "Mirror Image",
@@ -4174,7 +4174,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1084,
-            "zampopularity": 786
+            "zampopularity": 795
         },
         {
             "name": "Mogu'shan Warden",
@@ -4191,7 +4191,7 @@
             "set": 3,
             "type": 4,
             "zamid": 700,
-            "zampopularity": 691
+            "zampopularity": 690
         },
         {
             "name": "Moonfire",
@@ -4206,7 +4206,7 @@
             "set": 2,
             "type": 5,
             "zamid": 467,
-            "zampopularity": 148
+            "zampopularity": 150
         },
         {
             "name": "Mortal Coil",
@@ -4221,7 +4221,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1092,
-            "zampopularity": 530
+            "zampopularity": 531
         },
         {
             "name": "Murloc Tidehunter",
@@ -4238,7 +4238,7 @@
             "set": 2,
             "type": 4,
             "zamid": 976,
-            "zampopularity": 873
+            "zampopularity": 879
         },
         {
             "name": "Naturalize",
@@ -4253,7 +4253,7 @@
             "set": 3,
             "type": 5,
             "zamid": 233,
-            "zampopularity": 192
+            "zampopularity": 195
         },
         {
             "name": "Noble Sacrifice",
@@ -4268,7 +4268,7 @@
             "set": 3,
             "type": 5,
             "zamid": 584,
-            "zampopularity": 439
+            "zampopularity": 440
         },
         {
             "name": "Ogre Magi",
@@ -4285,7 +4285,7 @@
             "set": 2,
             "type": 4,
             "zamid": 995,
-            "zampopularity": 714
+            "zampopularity": 717
         },
         {
             "name": "Power of the Wild",
@@ -4300,7 +4300,7 @@
             "set": 3,
             "type": 5,
             "zamid": 503,
-            "zampopularity": 367
+            "zampopularity": 370
         },
         {
             "name": "Power Overwhelming",
@@ -4315,7 +4315,7 @@
             "set": 3,
             "type": 5,
             "zamid": 846,
-            "zampopularity": 603
+            "zampopularity": 608
         },
         {
             "name": "Priestess of Elune",
@@ -4332,7 +4332,7 @@
             "set": 3,
             "type": 4,
             "zamid": 424,
-            "zampopularity": 289
+            "zampopularity": 288
         },
         {
             "name": "Raging Worgen",
@@ -4349,7 +4349,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1155,
-            "zampopularity": 1221
+            "zampopularity": 1227
         },
         {
             "name": "Rampage",
@@ -4381,7 +4381,7 @@
             "set": 2,
             "type": 4,
             "zamid": 257,
-            "zampopularity": 746
+            "zampopularity": 750
         },
         {
             "name": "Redemption",
@@ -4396,7 +4396,7 @@
             "set": 3,
             "type": 5,
             "zamid": 140,
-            "zampopularity": 354
+            "zampopularity": 355
         },
         {
             "name": "Repentance",
@@ -4411,7 +4411,7 @@
             "set": 3,
             "type": 5,
             "zamid": 232,
-            "zampopularity": 166
+            "zampopularity": 168
         },
         {
             "name": "Sacrificial Pact",
@@ -4441,7 +4441,7 @@
             "set": 2,
             "type": 5,
             "zamid": 742,
-            "zampopularity": 305
+            "zampopularity": 306
         },
         {
             "name": "Scarlet Crusader",
@@ -4458,7 +4458,7 @@
             "set": 3,
             "type": 4,
             "zamid": 642,
-            "zampopularity": 836
+            "zampopularity": 844
         },
         {
             "name": "Scavenging Hyena",
@@ -4475,7 +4475,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1281,
-            "zampopularity": 570
+            "zampopularity": 572
         },
         {
             "name": "Sense Demons",
@@ -4505,7 +4505,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1363,
-            "zampopularity": 1052
+            "zampopularity": 1055
         },
         {
             "name": "Shadowstep",
@@ -4520,7 +4520,7 @@
             "set": 3,
             "type": 5,
             "zamid": 365,
-            "zampopularity": 363
+            "zampopularity": 365
         },
         {
             "name": "Shattered Sun Cleric",
@@ -4537,7 +4537,7 @@
             "set": 2,
             "type": 4,
             "zamid": 608,
-            "zampopularity": 2720
+            "zampopularity": 2746
         },
         {
             "name": "Shield Block",
@@ -4552,7 +4552,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1023,
-            "zampopularity": 410
+            "zampopularity": 414
         },
         {
             "name": "Shieldbearer",
@@ -4569,7 +4569,7 @@
             "set": 3,
             "type": 4,
             "zamid": 866,
-            "zampopularity": 602
+            "zampopularity": 604
         },
         {
             "name": "Shiv",
@@ -4584,7 +4584,7 @@
             "set": 2,
             "type": 5,
             "zamid": 573,
-            "zampopularity": 415
+            "zampopularity": 417
         },
         {
             "name": "Silence",
@@ -4599,7 +4599,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1189,
-            "zampopularity": 255
+            "zampopularity": 254
         },
         {
             "name": "Silver Hand Knight",
@@ -4616,7 +4616,7 @@
             "set": 3,
             "type": 4,
             "zamid": 69,
-            "zampopularity": 908
+            "zampopularity": 919
         },
         {
             "name": "Silverback Patriarch",
@@ -4650,7 +4650,7 @@
             "set": 3,
             "type": 4,
             "zamid": 34,
-            "zampopularity": 513
+            "zampopularity": 518
         },
         {
             "name": "Slam",
@@ -4665,7 +4665,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1074,
-            "zampopularity": 411
+            "zampopularity": 414
         },
         {
             "name": "Snipe",
@@ -4680,7 +4680,7 @@
             "set": 3,
             "type": 5,
             "zamid": 814,
-            "zampopularity": 385
+            "zampopularity": 386
         },
         {
             "name": "Sorcerer's Apprentice",
@@ -4697,7 +4697,7 @@
             "set": 3,
             "type": 4,
             "zamid": 614,
-            "zampopularity": 744
+            "zampopularity": 752
         },
         {
             "name": "Soul of the Forest",
@@ -4712,7 +4712,7 @@
             "set": 3,
             "type": 5,
             "zamid": 381,
-            "zampopularity": 248
+            "zampopularity": 249
         },
         {
             "name": "Soulfire",
@@ -4727,7 +4727,7 @@
             "set": 2,
             "type": 5,
             "zamid": 974,
-            "zampopularity": 615
+            "zampopularity": 623
         },
         {
             "name": "Southsea Deckhand",
@@ -4744,7 +4744,7 @@
             "set": 3,
             "type": 4,
             "zamid": 724,
-            "zampopularity": 300
+            "zampopularity": 304
         },
         {
             "name": "Spellbreaker",
@@ -4761,7 +4761,7 @@
             "set": 3,
             "type": 4,
             "zamid": 754,
-            "zampopularity": 2007
+            "zampopularity": 2014
         },
         {
             "name": "Spiteful Smith",
@@ -4793,7 +4793,7 @@
             "set": 2,
             "type": 5,
             "zamid": 630,
-            "zampopularity": 248
+            "zampopularity": 250
         },
         {
             "name": "Starfire",
@@ -4808,7 +4808,7 @@
             "set": 2,
             "type": 5,
             "zamid": 823,
-            "zampopularity": 441
+            "zampopularity": 445
         },
         {
             "name": "Starving Buzzard",
@@ -4825,7 +4825,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1241,
-            "zampopularity": 748
+            "zampopularity": 750
         },
         {
             "name": "Stormforged Axe",
@@ -4841,7 +4841,7 @@
             "set": 3,
             "type": 7,
             "zamid": 960,
-            "zampopularity": 547
+            "zampopularity": 553
         },
         {
             "name": "Stormpike Commando",
@@ -4858,7 +4858,7 @@
             "set": 2,
             "type": 4,
             "zamid": 413,
-            "zampopularity": 438
+            "zampopularity": 443
         },
         {
             "name": "Stormwind Champion",
@@ -4875,7 +4875,7 @@
             "set": 2,
             "type": 4,
             "zamid": 753,
-            "zampopularity": 1247
+            "zampopularity": 1252
         },
         {
             "name": "Stormwind Knight",
@@ -4892,7 +4892,7 @@
             "set": 2,
             "type": 4,
             "zamid": 622,
-            "zampopularity": 387
+            "zampopularity": 391
         },
         {
             "name": "Stranglethorn Tiger",
@@ -4909,7 +4909,7 @@
             "set": 3,
             "type": 4,
             "zamid": 68,
-            "zampopularity": 688
+            "zampopularity": 694
         },
         {
             "name": "Summoning Portal",
@@ -4941,7 +4941,7 @@
             "set": 2,
             "type": 5,
             "zamid": 64,
-            "zampopularity": 729
+            "zampopularity": 741
         },
         {
             "name": "Tauren Warrior",
@@ -4958,7 +4958,7 @@
             "set": 3,
             "type": 4,
             "zamid": 45,
-            "zampopularity": 584
+            "zampopularity": 586
         },
         {
             "name": "Temple Enforcer",
@@ -4975,7 +4975,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1364,
-            "zampopularity": 500
+            "zampopularity": 501
         },
         {
             "name": "Thoughtsteal",
@@ -4990,7 +4990,7 @@
             "set": 3,
             "type": 5,
             "zamid": 30,
-            "zampopularity": 509
+            "zampopularity": 513
         },
         {
             "name": "Thrallmar Farseer",
@@ -5007,7 +5007,7 @@
             "set": 3,
             "type": 4,
             "zamid": 765,
-            "zampopularity": 327
+            "zampopularity": 325
         },
         {
             "name": "Totemic Might",
@@ -5038,7 +5038,7 @@
             "set": 2,
             "type": 7,
             "zamid": 847,
-            "zampopularity": 1100
+            "zampopularity": 1105
         },
         {
             "name": "Tundra Rhino",
@@ -5072,7 +5072,7 @@
             "set": 3,
             "type": 4,
             "zamid": 774,
-            "zampopularity": 379
+            "zampopularity": 383
         },
         {
             "name": "Unleash the Hounds",
@@ -5087,7 +5087,7 @@
             "set": 3,
             "type": 5,
             "zamid": 1243,
-            "zampopularity": 560
+            "zampopularity": 561
         },
         {
             "name": "Vanish",
@@ -5119,7 +5119,7 @@
             "set": 3,
             "type": 4,
             "zamid": 1122,
-            "zampopularity": 573
+            "zampopularity": 577
         },
         {
             "name": "War Golem",
@@ -5135,7 +5135,7 @@
             "set": 2,
             "type": 4,
             "zamid": 712,
-            "zampopularity": 214
+            "zampopularity": 215
         },
         {
             "name": "Water Elemental",
@@ -5152,7 +5152,7 @@
             "set": 2,
             "type": 4,
             "zamid": 395,
-            "zampopularity": 554
+            "zampopularity": 558
         },
         {
             "name": "Whirlwind",
@@ -5167,7 +5167,7 @@
             "set": 2,
             "type": 5,
             "zamid": 636,
-            "zampopularity": 436
+            "zampopularity": 440
         },
         {
             "name": "Windfury Harpy",
@@ -5184,7 +5184,7 @@
             "set": 3,
             "type": 4,
             "zamid": 567,
-            "zampopularity": 391
+            "zampopularity": 389
         },
         {
             "name": "Windspeaker",
@@ -5201,7 +5201,7 @@
             "set": 2,
             "type": 4,
             "zamid": 178,
-            "zampopularity": 386
+            "zampopularity": 389
         },
         {
             "name": "Wisp",
@@ -5217,7 +5217,7 @@
             "set": 3,
             "type": 4,
             "zamid": 179,
-            "zampopularity": 168
+            "zampopularity": 170
         },
         {
             "name": "Worgen Infiltrator",
@@ -5234,7 +5234,7 @@
             "set": 3,
             "type": 4,
             "zamid": 994,
-            "zampopularity": 449
+            "zampopularity": 453
         },
         {
             "name": "Wrath",
@@ -5249,7 +5249,7 @@
             "set": 3,
             "type": 5,
             "zamid": 836,
-            "zampopularity": 614
+            "zampopularity": 625
         },
         {
             "name": "Young Dragonhawk",
@@ -5266,7 +5266,7 @@
             "set": 3,
             "type": 4,
             "zamid": 641,
-            "zampopularity": 429
+            "zampopularity": 428
         },
         {
             "name": "Youthful Brewmaster",
@@ -5283,7 +5283,7 @@
             "set": 3,
             "type": 4,
             "zamid": 415,
-            "zampopularity": 816
+            "zampopularity": 814
         },
         {
             "name": "Ancestral Healing",
@@ -5298,7 +5298,7 @@
             "set": 2,
             "type": 5,
             "zamid": 149,
-            "zampopularity": 220
+            "zampopularity": 221
         },
         {
             "name": "Arcane Explosion",
@@ -5313,7 +5313,7 @@
             "set": 2,
             "type": 5,
             "zamid": 447,
-            "zampopularity": 523
+            "zampopularity": 524
         },
         {
             "name": "Arcane Intellect",
@@ -5328,7 +5328,7 @@
             "set": 2,
             "type": 5,
             "zamid": 555,
-            "zampopularity": 1017
+            "zampopularity": 1026
         },
         {
             "name": "Arcane Missiles",
@@ -5343,7 +5343,7 @@
             "set": 2,
             "type": 5,
             "zamid": 564,
-            "zampopularity": 883
+            "zampopularity": 889
         },
         {
             "name": "Arcane Shot",
@@ -5358,7 +5358,7 @@
             "set": 2,
             "type": 5,
             "zamid": 877,
-            "zampopularity": 463
+            "zampopularity": 466
         },
         {
             "name": "Assassinate",
@@ -5373,7 +5373,7 @@
             "set": 2,
             "type": 5,
             "zamid": 345,
-            "zampopularity": 572
+            "zampopularity": 577
         },
         {
             "name": "Backstab",
@@ -5388,7 +5388,7 @@
             "set": 2,
             "type": 5,
             "zamid": 180,
-            "zampopularity": 725
+            "zampopularity": 734
         },
         {
             "name": "Blessing of Might",
@@ -5403,7 +5403,7 @@
             "set": 2,
             "type": 5,
             "zamid": 70,
-            "zampopularity": 461
+            "zampopularity": 460
         },
         {
             "name": "Bloodfen Raptor",
@@ -5419,7 +5419,7 @@
             "set": 2,
             "type": 4,
             "zamid": 216,
-            "zampopularity": 684
+            "zampopularity": 688
         },
         {
             "name": "Boulderfist Ogre",
@@ -5435,7 +5435,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1686,
-            "zampopularity": 549
+            "zampopularity": 551
         },
         {
             "name": "Charge",
@@ -5450,7 +5450,7 @@
             "set": 2,
             "type": 5,
             "zamid": 344,
-            "zampopularity": 268
+            "zampopularity": 269
         },
         {
             "name": "Claw",
@@ -5465,7 +5465,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1050,
-            "zampopularity": 498
+            "zampopularity": 510
         },
         {
             "name": "Deadly Poison",
@@ -5480,7 +5480,7 @@
             "set": 2,
             "type": 5,
             "zamid": 459,
-            "zampopularity": 577
+            "zampopularity": 583
         },
         {
             "name": "Drain Life",
@@ -5495,7 +5495,7 @@
             "set": 2,
             "type": 5,
             "zamid": 919,
-            "zampopularity": 413
+            "zampopularity": 417
         },
         {
             "name": "Execute",
@@ -5510,7 +5510,7 @@
             "set": 2,
             "type": 5,
             "zamid": 785,
-            "zampopularity": 642
+            "zampopularity": 649
         },
         {
             "name": "Fiery War Axe",
@@ -5525,7 +5525,7 @@
             "set": 2,
             "type": 7,
             "zamid": 401,
-            "zampopularity": 852
+            "zampopularity": 859
         },
         {
             "name": "Fireball",
@@ -5540,7 +5540,7 @@
             "set": 2,
             "type": 5,
             "zamid": 315,
-            "zampopularity": 1349
+            "zampopularity": 1360
         },
         {
             "name": "Frost Shock",
@@ -5555,7 +5555,7 @@
             "set": 2,
             "type": 5,
             "zamid": 971,
-            "zampopularity": 186
+            "zampopularity": 187
         },
         {
             "name": "Hammer of Wrath",
@@ -5570,7 +5570,7 @@
             "set": 2,
             "type": 5,
             "zamid": 250,
-            "zampopularity": 889
+            "zampopularity": 896
         },
         {
             "name": "Hand of Protection",
@@ -5585,7 +5585,7 @@
             "set": 2,
             "type": 5,
             "zamid": 727,
-            "zampopularity": 458
+            "zampopularity": 460
         },
         {
             "name": "Healing Touch",
@@ -5600,7 +5600,7 @@
             "set": 2,
             "type": 5,
             "zamid": 773,
-            "zampopularity": 293
+            "zampopularity": 297
         },
         {
             "name": "Hellfire",
@@ -5615,7 +5615,7 @@
             "set": 2,
             "type": 5,
             "zamid": 950,
-            "zampopularity": 406
+            "zampopularity": 410
         },
         {
             "name": "Heroic Strike",
@@ -5630,7 +5630,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1007,
-            "zampopularity": 321
+            "zampopularity": 326
         },
         {
             "name": "Hex",
@@ -5645,7 +5645,7 @@
             "set": 2,
             "type": 5,
             "zamid": 766,
-            "zampopularity": 879
+            "zampopularity": 891
         },
         {
             "name": "Holy Light",
@@ -5660,7 +5660,7 @@
             "set": 2,
             "type": 5,
             "zamid": 291,
-            "zampopularity": 274
+            "zampopularity": 276
         },
         {
             "name": "Holy Smite",
@@ -5675,7 +5675,7 @@
             "set": 2,
             "type": 5,
             "zamid": 279,
-            "zampopularity": 751
+            "zampopularity": 754
         },
         {
             "name": "Houndmaster",
@@ -5692,7 +5692,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1003,
-            "zampopularity": 594
+            "zampopularity": 596
         },
         {
             "name": "Innervate",
@@ -5707,7 +5707,7 @@
             "set": 2,
             "type": 5,
             "zamid": 254,
-            "zampopularity": 567
+            "zampopularity": 580
         },
         {
             "name": "Light's Justice",
@@ -5722,7 +5722,7 @@
             "set": 2,
             "type": 7,
             "zamid": 383,
-            "zampopularity": 185
+            "zampopularity": 186
         },
         {
             "name": "Magma Rager",
@@ -5753,7 +5753,7 @@
             "set": 2,
             "type": 5,
             "zamid": 213,
-            "zampopularity": 401
+            "zampopularity": 407
         },
         {
             "name": "Mind Blast",
@@ -5783,7 +5783,7 @@
             "set": 2,
             "type": 5,
             "zamid": 292,
-            "zampopularity": 665
+            "zampopularity": 667
         },
         {
             "name": "Murloc Raider",
@@ -5799,7 +5799,7 @@
             "set": 2,
             "type": 4,
             "zamid": 191,
-            "zampopularity": 497
+            "zampopularity": 505
         },
         {
             "name": "Nightblade",
@@ -5816,7 +5816,7 @@
             "set": 2,
             "type": 4,
             "zamid": 670,
-            "zampopularity": 407
+            "zampopularity": 410
         },
         {
             "name": "Northshire Cleric",
@@ -5833,7 +5833,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1650,
-            "zampopularity": 994
+            "zampopularity": 1000
         },
         {
             "name": "Novice Engineer",
@@ -5850,7 +5850,7 @@
             "set": 2,
             "type": 4,
             "zamid": 284,
-            "zampopularity": 2719
+            "zampopularity": 2761
         },
         {
             "name": "Oasis Snapjaw",
@@ -5866,7 +5866,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1370,
-            "zampopularity": 308
+            "zampopularity": 307
         },
         {
             "name": "Polymorph",
@@ -5881,7 +5881,7 @@
             "set": 2,
             "type": 5,
             "zamid": 77,
-            "zampopularity": 1033
+            "zampopularity": 1036
         },
         {
             "name": "Power Word: Shield",
@@ -5896,7 +5896,7 @@
             "set": 2,
             "type": 5,
             "zamid": 613,
-            "zampopularity": 1051
+            "zampopularity": 1054
         },
         {
             "name": "Raid Leader",
@@ -5913,7 +5913,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1401,
-            "zampopularity": 904
+            "zampopularity": 906
         },
         {
             "name": "Reckless Rocketeer",
@@ -5930,7 +5930,7 @@
             "set": 2,
             "type": 4,
             "zamid": 445,
-            "zampopularity": 364
+            "zampopularity": 367
         },
         {
             "name": "River Crocolisk",
@@ -5946,7 +5946,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1369,
-            "zampopularity": 536
+            "zampopularity": 537
         },
         {
             "name": "Rockbiter Weapon",
@@ -5961,7 +5961,7 @@
             "set": 2,
             "type": 5,
             "zamid": 239,
-            "zampopularity": 682
+            "zampopularity": 691
         },
         {
             "name": "Sap",
@@ -5976,7 +5976,7 @@
             "set": 2,
             "type": 5,
             "zamid": 461,
-            "zampopularity": 260
+            "zampopularity": 262
         },
         {
             "name": "Sen'jin Shieldmasta",
@@ -5993,7 +5993,7 @@
             "set": 2,
             "type": 4,
             "zamid": 635,
-            "zampopularity": 2435
+            "zampopularity": 2455
         },
         {
             "name": "Shadow Bolt",
@@ -6008,7 +6008,7 @@
             "set": 2,
             "type": 5,
             "zamid": 914,
-            "zampopularity": 570
+            "zampopularity": 573
         },
         {
             "name": "Shadow Word: Pain",
@@ -6023,7 +6023,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1367,
-            "zampopularity": 1093
+            "zampopularity": 1098
         },
         {
             "name": "Sinister Strike",
@@ -6072,7 +6072,7 @@
             "set": 2,
             "type": 4,
             "zamid": 592,
-            "zampopularity": 243
+            "zampopularity": 245
         },
         {
             "name": "Timber Wolf",
@@ -6089,7 +6089,7 @@
             "set": 2,
             "type": 4,
             "zamid": 606,
-            "zampopularity": 690
+            "zampopularity": 693
         },
         {
             "name": "Tracking",
@@ -6104,7 +6104,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1047,
-            "zampopularity": 342
+            "zampopularity": 343
         },
         {
             "name": "Voidwalker",
@@ -6121,7 +6121,7 @@
             "set": 2,
             "type": 4,
             "zamid": 48,
-            "zampopularity": 733
+            "zampopularity": 742
         },
         {
             "name": "Voodoo Doctor",
@@ -6138,7 +6138,7 @@
             "set": 2,
             "type": 4,
             "zamid": 132,
-            "zampopularity": 572
+            "zampopularity": 576
         },
         {
             "name": "Warsong Commander",
@@ -6155,7 +6155,7 @@
             "set": 2,
             "type": 4,
             "zamid": 1009,
-            "zampopularity": 734
+            "zampopularity": 736
         },
         {
             "name": "Wild Growth",
@@ -6170,7 +6170,7 @@
             "set": 2,
             "type": 5,
             "zamid": 1124,
-            "zampopularity": 298
+            "zampopularity": 300
         },
         {
             "name": "Windfury",
@@ -6185,7 +6185,7 @@
             "set": 2,
             "type": 5,
             "zamid": 51,
-            "zampopularity": 305
+            "zampopularity": 308
         },
         {
             "name": "Wolfrider",
@@ -6202,7 +6202,55 @@
             "set": 2,
             "type": 4,
             "zamid": 289,
-            "zampopularity": 600
+            "zampopularity": 607
         }
-    ]
+    ],
+    "labels": {
+        "classes": {
+            "0": "Neutral",
+            "1": "Warrior",
+            "2": "Paladin",
+            "3": "Hunter",
+            "4": "Rogue",
+            "5": "Priest",
+            "6": "Death Knight",
+            "7": "Shaman",
+            "8": "Mage",
+            "9": "Warlock",
+            "10": "Monk",
+            "11": "Druid"
+        },
+        "races": {
+            "0": "None",
+            "14": "Murloc",
+            "15": "Demon",
+            "20": "Beast",
+            "21": "Totem",
+            "23": "Pirate",
+            "24": "Dragon"
+        },
+        "types": {
+            "0": "Unknown",
+            "3": "Hero",
+            "4": "Minion",
+            "5": "Spell",
+            "7": "Weapon",
+            "10": "Hero Power"
+        },
+        "sets": {
+            "0": "Unknown",
+            "2": "Basic",
+            "3": "Expert",
+            "4": "Reward",
+            "5": "Missions",
+            "11": "Promotion"
+        },
+        "quality": {
+            "0": "Free",
+            "1": "Common",
+            "3": "Rare",
+            "4": "Epic",
+            "5": "Legendary"
+        }
+    }
 }
